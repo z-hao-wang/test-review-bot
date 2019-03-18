@@ -12,9 +12,7 @@
     "declaration": true,
     "declarationDir": "./dist",
     "outDir": "./dist",
-    "paths": {
-      "ts-utils": ["utils"],
-    }
+    "paths": {}
   },
   "exclude": [
     "node_modules",
